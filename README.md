@@ -1,4 +1,4 @@
-![Scrapy]('screenshots/scrapy and mongo db.jpg')
+![Scrapy]('screenshots/scrapymongo.jpg')
 
 ## Description
 ---
