@@ -1,6 +1,3 @@
-
-![Scrapy]('screenshots/scrapymongo.jpg')
-
 ## Description
 ---
 This repo provides the ETL pipeline, to populate the sparkifydb AWS S3 Data Lake using Spark  
